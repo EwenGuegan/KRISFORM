@@ -1,0 +1,22 @@
+/*
+Theme Name: CoachForme
+Author: CoachForme Team
+Description: Theme made ​​for the company CoachForme
+Version: 1.0
+License: *****
+License URI: *****
+Tags: *****
+Text Domain: CoachForme
+
+This theme, like WordPress, is licensed under the *****
+*/
+
+body{
+	margin: 0 5%;
+	background-color: #FFFFFF;
+	font-family: "Lato", sans-serif;
+}
+
+#copy{
+	text-align: center;
+}
